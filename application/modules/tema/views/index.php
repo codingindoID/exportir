@@ -2,7 +2,7 @@
 
 <body class="cnt-home">
     <header class="header-style-1">
-        <?php $this->load->view('pars/topbar') ?>
+        <!-- topbar -->
         <?php $this->load->view('pars/menu1') ?>
         <?php $this->load->view('pars/navbar') ?>
 

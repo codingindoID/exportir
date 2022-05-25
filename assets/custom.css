@@ -1,0 +1,68 @@
+.w-50 {
+    width: 50% !important;
+}
+
+.w-60 {
+    width: 60% !important;
+}
+
+.w-70 {
+    width: 70% !important;
+}
+
+.w-80 {
+    width: 80% !important;
+}
+
+.w-90 {
+    width: 90% !important;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+/* margin dan padding */
+.p-1 {
+    padding: 10px !important;
+}
+
+.p-2 {
+    padding: 20px !important;
+}
+
+.p-3 {
+    padding: 30px !important;
+}
+
+.p-4 {
+    padding: 40px !important;
+}
+
+.p-5 {
+    padding: 50px !important;
+}
+
+
+
+/* tema */
+.links li a {
+    padding: 0;
+    font-size: 1em;
+}
+
+.name-produk {
+    text-transform: capitalize;
+    font-size: 2rem;
+    font-weight: 600 !important;
+}
+
+.name-produk a {
+    color: black !important;
+}
+
+.product-price-s {
+    color: rgb(255, 146, 3);
+    font-size: 2rem;
+    font-weight: 600;
+}
